@@ -6,7 +6,7 @@ $nav_links = [
     'nosotros.php' => 'Nosotros',
     'tienda.php'   => 'Tienda',
     'blog.php'     => 'Blog',
-    'galeria.php'  => 'Galería',
+    'carrito.php'  => 'Carrito',
     'contacto.php' => 'Contacto',
 ];
 
