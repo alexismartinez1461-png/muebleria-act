@@ -1,4 +1,3 @@
-
 <?php
 $titulo = "Sobre Nosotros - Tienda Muebles";
 
