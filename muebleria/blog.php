@@ -42,7 +42,6 @@ $otras_entradas = [
     'Guía para diseño de exteriores'=> 'entrada.php',
 ];
 
-$categorias_footer = ['Cocina', 'Oficina', 'Jardín', 'Cochera', 'Dormitorios'];
 $sobre_nosotros    = ['Nuestra Historia', 'Misión, Visión y Valores', 'Carreras', 'Política de Privacidad', 'Términos del Servicio'];
 $soporte           = ['Preguntas Frecuentes', 'Ayuda en línea', 'Confianza y Seguridad'];
 ?>
