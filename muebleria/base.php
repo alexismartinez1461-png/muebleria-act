@@ -3,7 +3,6 @@ $titulo_pagina = "Home";
 
 $nav_links = [
     'index.php'    => 'Inicio',
-    'nosotros.php' => 'Nosotros',
     'tienda.php'   => 'Tienda',
     'blog.php'     => 'Blog',
     'carrito.php'  => 'Carrito',
@@ -42,8 +41,6 @@ $soporte           = ['Preguntas Frecuentes', 'Ayuda en línea', 'Confianza y Se
 
     <main class="contenido-principal contenedor">
         <h2 class="text-center"><?php echo htmlspecialchars($titulo_pagina); ?></h2>
-
-        <!-- Contenido de la página -->
 
     </main>
 
