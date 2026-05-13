@@ -8,15 +8,12 @@ $titulo_pagina = "Entrada Blog";
 
 $nav_links = [
     'index.php'    => 'Inicio',
-    'nosotros.php' => 'Nosotros',
     'tienda.php'   => 'Tienda',
     'blog.php'     => 'Blog',
     'contacto.php' => 'Contacto',
     'citas.php'    => 'Citas',
     'carrito.php'  => 'Carrito',
 ];
-
-$categorias = ['Cocina', 'Oficina', 'Jardín', 'Cochera', 'Dormitorios'];
 
 $sobre_nosotros = [
     'Nuestra Historia',
