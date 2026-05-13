@@ -3,7 +3,6 @@ $titulo_pagina = "Nuestro Blog";
 
 $nav_links = [
     'index.php'    => 'Inicio',
-    'nosotros.php' => 'Nosotros',
     'tienda.php'   => 'Tienda',
     'blog.php'     => 'Blog',
     'carrito.php'  => 'Carrito',
@@ -12,7 +11,6 @@ $nav_links = [
 
 $entradas = [
     [
-        'titulo'  => 'Guía de Colores',
         'imagen'  => 'img/nosotros.jpg',
         'fecha'   => '22 de Octubre de 2022',
         'autor'   => 'TiendaMuebles',
