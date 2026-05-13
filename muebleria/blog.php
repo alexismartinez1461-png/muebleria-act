@@ -21,7 +21,6 @@ $entradas = [
         'url' => 'entrada.php',
     ],
     [
-        'titulo'  => 'Guía de Colores',
         'imagen'  => 'img/nosotros.jpg',
         'fecha'   => '22 de Octubre de 2022',
         'autor'   => 'TiendaMuebles',
