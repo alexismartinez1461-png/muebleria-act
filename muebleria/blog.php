@@ -9,14 +9,15 @@ $nav_links = [
     'contacto.php' => 'Contacto',
 ];
 
-$entradas = [
+$entradas = [ "Nosotros"
     [
         'imagen'  => 'img/nosotros.jpg',
         'fecha'   => '22 de Octubre de 2022',
         'autor'   => 'TiendaMuebles',
         'parrafos' => [
-            'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium id numquam ducimus alias commodi eveniet, impedit amet! Quidem et tempore obcaecati vitae voluptatibus ipsam? Quae repudiandae sequi quas numquam nam.',
-            'Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati provident beatae fugiat laudantium possimus harum, magnam architecto soluta doloribus itaque dolores amet maiores pariatur ea quisquam voluptatem numquam? In, nobis!',
+              'encontrarás una amplia variedad de muebles modernos y funcionales para cada espacio de tu hogar. 
+              Nuestra tienda ofrece salas, comedores, recámaras, escritorios y artículos de decoración elaborados con materiales 
+              de alta calidad y diseños elegantes.'
         ],
         'url' => 'entrada.php',
     ],
@@ -25,8 +26,7 @@ $entradas = [
         'fecha'   => '22 de Octubre de 2022',
         'autor'   => 'TiendaMuebles',
         'parrafos' => [
-            'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium id numquam ducimus alias commodi eveniet, impedit amet! Quidem et tempore obcaecati vitae voluptatibus ipsam? Quae repudiandae sequi quas numquam nam.',
-            'Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati provident beatae fugiat laudantium possimus harum, magnam architecto soluta doloribus itaque dolores amet maiores pariatur ea quisquam voluptatem numquam? In, nobis!',
+           
         ],
         'url' => 'entrada.php',
     ],
