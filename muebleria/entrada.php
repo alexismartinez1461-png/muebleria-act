@@ -11,7 +11,6 @@ $nav_links = [
     'nosotros.php' => 'Nosotros',
     'tienda.php'   => 'Tienda',
     'blog.php'     => 'Blog',
-    'galeria.php'  => 'Galería',
     'contacto.php' => 'Contacto',
     'citas.php'    => 'Citas',
     'carrito.php'  => 'Carrito',
